@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Terminator-22/firstport.git/static/css/main.7e0dfd26.css",
+    "main.js": "/Terminator-22/firstport.git/static/js/main.d8143f84.js",
+    "static/js/453.ace5133d.chunk.js": "/Terminator-22/firstport.git/static/js/453.ace5133d.chunk.js",
+    "index.html": "/Terminator-22/firstport.git/index.html",
+    "main.7e0dfd26.css.map": "/Terminator-22/firstport.git/static/css/main.7e0dfd26.css.map",
+    "main.d8143f84.js.map": "/Terminator-22/firstport.git/static/js/main.d8143f84.js.map",
+    "453.ace5133d.chunk.js.map": "/Terminator-22/firstport.git/static/js/453.ace5133d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e0dfd26.css",
+    "static/js/main.d8143f84.js"
+  ]
+}
